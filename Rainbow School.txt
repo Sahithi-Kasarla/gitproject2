@@ -1,0 +1,11 @@
+Rahul , 15, Male, Grade 9, 432 Charminar Street, Indore, (91) 2109876543, rahul@email.com
+Arjun, 17, Male, Grade 11, 210 Ganges Road, Kolkata, (91) 8765432109, arjun@email.com
+Ravi, 17, Male, Grade 7, South India, Chennai, (91) 8776543210 , ravi@email.com
+Surya, 16, Male, Grade 10, 654 Kondapur, Hyderabad, (91) 9876543210 , surya@email.com
+Priya , 15, Female, Grade 9, 456 Gandhi Road, Mumbai, (91) 9865432109, priya@email.com
+Akhira, 17, Female, Grade 11, 789 Yamuna Vihar, Kolkata, (91) 7654321098, akhira@email.com
+Aarti Reddy, 14, Female, Grade 8, Marthalli, Bengaluru, (91) 6543210987, aarti.reddy@email.com
+Dhoni, 16, Male, Grade 10,Kukatpally, Hyderabad, (91) 5432109876, Dhoni@email.com
+Anushka, 17, Female, Grade 11, 890 Taj Mahal Road, Agra, (91) 4321788765, Anushka@email.com
+Vikram , 15, Male, Grade 9, Jntu, Hyderabad, (91) 3217887654, vikram@email.com
+

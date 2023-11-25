@@ -1,0 +1,7 @@
+C:\Users\Dell\OneDrive\Documents\Mphasis Docs\Projects\gitproject2\SourceCode\SourceCode\bin\Debug\SourceCode.exe.config
+C:\Users\Dell\OneDrive\Documents\Mphasis Docs\Projects\gitproject2\SourceCode\SourceCode\bin\Debug\SourceCode.exe
+C:\Users\Dell\OneDrive\Documents\Mphasis Docs\Projects\gitproject2\SourceCode\SourceCode\bin\Debug\SourceCode.pdb
+C:\Users\Dell\OneDrive\Documents\Mphasis Docs\Projects\gitproject2\SourceCode\SourceCode\obj\Debug\SourceCode.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Documents\Mphasis Docs\Projects\gitproject2\SourceCode\SourceCode\obj\Debug\SourceCode.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Documents\Mphasis Docs\Projects\gitproject2\SourceCode\SourceCode\obj\Debug\SourceCode.exe
+C:\Users\Dell\OneDrive\Documents\Mphasis Docs\Projects\gitproject2\SourceCode\SourceCode\obj\Debug\SourceCode.pdb
